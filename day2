@@ -1,0 +1,21 @@
+a=156
+b=complex(8,3)
+c=True
+d="sona"
+e="none"
+a1=95
+print(a+a1)
+
+print("the type of a is",type(a))
+print("the type of b is",type(b))
+print("the type of c is",type(c))
+print("the type of d is",type(d))
+print("the type of e is",type(e))
+"""
+list=[6,3.5,8,[4,5],"papaya", "apple"]
+print(list)
+tuple=(("parrot","sparrow"),("rabit",
+"crow"))
+print(tuple)
+dict={"name": "sonaly", "age": 20, "canVote": True}
+"""
